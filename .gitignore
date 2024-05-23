@@ -161,3 +161,7 @@ cython_debug/
 
 # Project 
 data/
+*.pkl
+mlflow.db
+mlruns/
+artifacts/
